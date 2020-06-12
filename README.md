@@ -1,17 +1,5 @@
 # CV-Me-Letest-Java-Applications
 
-Plz do Donation and Help
-
-Bank name: Bank of America
-
-Routing (ABA): 061000052
-
-Account number: 00003017464635472
-
-Account type: CHECKING
-
-Beneficiary name: Pradip Nandan Raut
-
-My mail address: pradipkumar1342@gmail.com Directly send me thru my Nepal Bank Account
-
-{"accountNumber":"0687039729652401","accountName":"PRADIP NANDAN RAUT","bankCode":"BOALNPKA"}
+-- love what you know 
+# Do you want my wordpress theme 
+-- inbox me m.me/Pk4Tech
